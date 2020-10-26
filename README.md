@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ayanreza/ayanreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on better understanding machine learning and blockchain and how they are changing various sectors such as medical and banking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects with other like minded people who wish to further strengthen their coding skills.
+
+🤔 I’m also searching for internships and other opportunities to aid me in my computer science journey.
+
+📫 How to reach me: ayanreza0@gmail.com 
+
+😄 Pronouns: him/his
+
+⚡ Fun fact: I once hacked my own wifi because my parents were bothering me.
+
