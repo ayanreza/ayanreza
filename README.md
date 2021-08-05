@@ -7,7 +7,7 @@
 
 🤔 I’m also searching for internships and other opportunities to aid me in my computer science journey.
 
-📫 How to reach me: ayanreza0@gmail.com 
+📫 How to reach me: ayanreza@gmail.com 
 
 😄 Pronouns: him/his
 
