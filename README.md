@@ -15,8 +15,8 @@
 You have found your next hire. 👋
 <br>
 
-I've done a ton of **[projects](https://github.com/ayanreza?tab=repositories)** with various technologies, 
-View my **[resume](https://drive.google.com/drive/u/0/folders/1bgaU7XKexi3R9XocZFXm8tnTzU-1-O8k)**, 
+I've done a ton of **[projects](https://github.com/ayanreza?tab=repositories)** with various technologies.
+View my **[resume](https://drive.google.com/drive/u/0/folders/1bgaU7XKexi3R9XocZFXm8tnTzU-1-O8k)**. 
 Ask me anything **[here](https://github.com/ayanreza/ayanreza/issues/new)**, 
 or **[email](mailto:ayanreza@gmail.com)** me. 
 <br>
