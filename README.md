@@ -57,7 +57,4 @@ Best of luck on your future endevours! 💪🏽 <br>
 
 <br>
 
-![giphy](https://user-images.githubusercontent.com/55410958/147708203-0312f6da-46c8-4974-9fd5-34058b6ef7db.gif)
-
-
 
