@@ -11,10 +11,10 @@
 <a href="https://www.linkedin.com/in/ayanreza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ayanpoptosis" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://main-portfolio-xi.vercel.app" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Website&message=ayanreza.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
+<img src="https://img.shields.io/static/v1?label=Website&message=ayanreza.com&color=%230076D6&style=flat-square&logo=google-chrome&logoColor=%230076D6" alt="website"/>
 </a>
 <a href="https://main-portfolio-xi.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Projects-16-yellow?&style=flat-square" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-18-yellow?&style=flat-square" alt="Projects"/>
 </a>
 <br>
 
