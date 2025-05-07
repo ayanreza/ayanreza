@@ -32,6 +32,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <strong><span style="font-size:12px">React</span></strong>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <strong><span style="font-size:12px">Spring</span></strong>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> <strong>Apache Spark</strong>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> <strong><span style="font-size:12px">FastAPI</span></strong>
   <img src="https://github.com/user-attachments/assets/87b9addc-91f2-4d69-823b-b78fbc63a27f" alt="langchain" width="40" height="40"/> <strong><span style="font-size:12px">LangChain</span></strong>
   <img src="https://github.com/user-attachments/assets/23ec3ba9-767d-4c9a-acfc-2fc3dc41b705" alt="langgraph" width="40" height="40"/> <strong><span style="font-size:12px">LangGraph</span></strong>
